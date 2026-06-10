@@ -19,8 +19,6 @@ A lightweight, powerful, and privacy-focused browser extension that allows you t
 
 ## 📸 Screenshots
 
-> *Tip: You can add your extension screenshots here by uploading them to an `images` folder in this repository.*
-
 <p align="center">
   <img src="images/screenshot1.png" width="400" alt="Cookies Editor Interface">
   <img src="images/screenshot2.png" width="400" alt="Import and Export Features">
